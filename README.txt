@@ -13,6 +13,13 @@ Robot Framework Project Setup Guide
 
     PyCharm IDE (Recommended)
     Download PyCharm Community Edition from jetbrains.com
+    Install PyCharm IDE
+
+    How to open this project in PyCharm from Git repository
+        Open the Pycharm IDE
+        Click on File > Project From Version Control > Repository URL
+        Fill up this repository URL -  https://github.com/HtetHtetWin91/practice-softwaretesting-robotframework.git
+        Clone the repository
 
     ChromeDriver Setup
     Check your Chrome browser version (chrome://settings/help)
