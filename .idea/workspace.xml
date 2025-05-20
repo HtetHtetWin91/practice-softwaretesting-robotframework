@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f59e6be3-02b3-416a-96a0-a838e8dda177" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assignmentRobotFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/common.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/categories_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/checkout_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/home_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/login_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/product_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/register_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/page_objects/search_page.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_categories.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_checkout.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_product_search.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_register.robot" afterDir="false" />
-    </list>
+    <list default="true" id="f59e6be3-02b3-416a-96a0-a838e8dda177" name="Changes" comment="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +81,35 @@
       <option name="presentableId" value="Default" />
       <updated>1747383529741</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**.">
+      <option name="closed" value="true" />
+      <created>1747737439893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747737439893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**.">
+      <option name="closed" value="true" />
+      <created>1747737452945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747737452945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**.">
+      <option name="closed" value="true" />
+      <created>1747737508839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747737508839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: UI Test Automation for Practice Software Testing Website&#10;URL: https://practicesoftwaretesting.com/&#10;It includes test cases for user registration, login, product search, and checkout features&#10; — using **AI-generated user data**." />
   </component>
 </project>
